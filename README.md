@@ -1,1 +1,1 @@
-thheme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
